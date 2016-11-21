@@ -22,6 +22,6 @@ This piece of software is the practical part of my Master's Thesis (2014)
 
 ## Roadmap
 
-- version 2 in Maven and Kotlin
+- Version 2.0 with Maven and Kotlin
 - set up CI pipeline
 
