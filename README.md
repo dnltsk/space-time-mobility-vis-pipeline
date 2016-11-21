@@ -2,7 +2,7 @@
 
 # Space-Time Mobility Visualization Pipeline
 
-Module to generate visualization geometries, getting consumed by the [!Visualization module](https://github.com/teeschke/space-time-mobility-vis-pipeline). Input data are transport model results (csv).
+Module to generate visualization geometries, getting consumed by the [Visualization module](https://github.com/teeschke/space-time-mobility-vis). Input data are transport model results (csv).
 
 ## Screenshots
 
