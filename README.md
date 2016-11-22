@@ -18,7 +18,7 @@ Module to generate visualization geometries, getting consumed by the [Visualizat
 
 ## Background
 
-This piece of software is the practical part of my Master's Thesis (2014)
+This piece of software is the practical part of my [Master's Thesis (2014)](https://github.com/teeschke/space-time-mobility-vis/blob/master/MA_Daniel_Teske_2014.pdf)
 
 ## Roadmap
 
