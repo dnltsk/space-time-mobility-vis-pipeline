@@ -22,6 +22,7 @@ This piece of software is the practical part of my Master's Thesis (2014)
 
 ## Roadmap
 
-- Version 2.0 with Maven and Kotlin
+- Version 2.0 will come with Maven and Kotlin
+- Rethink pre-render approach: a true BFF would be a better fit
 - set up CI pipeline
 
